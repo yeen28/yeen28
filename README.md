@@ -3,6 +3,7 @@ I'm yeeun ✨
 
 <ul>
   <li><a href="https://github.com/yeen28/TIL">Today I Learned</a></li>
+  <li><a href="https://github.com/yeen28/moooo/tree/master/moooo_spring/src">MVC project</a></li>
 </ul>
 <!--
 **yeen28/yeen28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
