@@ -1,5 +1,9 @@
 ### Hi there 👋
 I'm yeeun ✨
+
+<ul>
+  <li><a href="https://github.com/yeen28/TIL">Today I Learned</a></li>
+</ul>
 <!--
 **yeen28/yeen28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
