@@ -1,6 +1,8 @@
 <!-- ### Hi there 👋
 I'm yeeun ✨ -->
 
+<!-- https://github.com/kyechan99/capsule-render#desc -->
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=300&section=header&text=Ye-eun👋&fontSize=60&fontColor=ffffff)
 
 ## Study
