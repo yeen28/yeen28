@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋
 I'm yeeun ✨ -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Ye-eun👋&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=300&section=header&text=Ye-eun👋&fontSize=60&fontColor=ffffff)
 
 ## Study
 <ul>
