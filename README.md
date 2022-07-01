@@ -39,6 +39,9 @@ I'm yeeun ✨ -->
 
 <br/>
 
+<!-- https://github.com/mazassumnida/mazassumnida -->
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=cbcom)](https://solved.ac/cbcom) -->
+
 <!--
 **yeen28/yeen28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
