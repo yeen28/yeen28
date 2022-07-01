@@ -1,14 +1,17 @@
-<!-- ### Hi there 👋
-I'm yeeun ✨ -->
-
 <!-- https://github.com/kyechan99/capsule-render#desc -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=300&section=header&text=Ye-eun👋&fontSize=60&fontColor=ffffff)
+
+### Hi 👋  I'm yeeun ✨
+
+<br/>
 
 ## Study
 <ul>
   <li><a href="https://github.com/yeen28/TIL">Today I Learned</a></li>
 </ul>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cbcom)](https://solved.ac/cbcom)
 
 <br/>
 
