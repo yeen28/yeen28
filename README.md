@@ -43,6 +43,7 @@
 <!-- https://github.com/mazassumnida/mazassumnida -->
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=cbcom)](https://solved.ac/cbcom) -->
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cbcom)](https://solved.ac/cbcom) -->
+<!-- 📫 How to reach me: yestar28@gmail.com -->
 
 <!--
 **yeen28/yeen28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
