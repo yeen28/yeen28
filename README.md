@@ -12,14 +12,12 @@
   <li><a href="https://github.com/yeen28/freelec-springboot2-webservice/tree/main/freelec-springboot2-webservice">스프링 부트와 AWS로 혼자 구현하는 웹 서비스</a></li>
 </ul>
 
-<br/>
 
 ### Project
 <ul>
   <li><a href="https://github.com/yeen28/moooo/tree/master/moooo_spring/src">MVC project</a></li>
 </ul>
 
-<br/>
 
 ### Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
