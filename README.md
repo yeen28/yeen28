@@ -11,7 +11,7 @@
   <li><a href="https://y-e-un28.tistory.com/204" target="_blank" rel="noopener">클린코드</a></li>
   <li><a href="https://github.com/yeen28/freelec-springboot2-webservice/tree/main/freelec-springboot2-webservice">스프링 부트와 AWS로 혼자 구현하는 웹 서비스</a></li>
 </ul>
-어엉
+
 
 ### Project
 <ul>
@@ -45,7 +45,7 @@
 <!-- 📫 How to reach me: yestar28@gmail.com -->
 
 <!--
-**yeen28/yeen28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨ _special_ ✨
 
 Here are some ideas to get you started:
 
